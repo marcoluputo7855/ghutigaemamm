@@ -1,0 +1,4 @@
+baseURL = "https://ceramicpots-vee.vercel.app"
+languageCode = "en-us"
+title = "Ceramic Pots 2021"
+theme = "hugo-theme-minos"
